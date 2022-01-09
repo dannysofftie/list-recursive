@@ -1,16 +1,16 @@
 {
   "name": "list-recursive",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/dannysofftie/list-recursive.git"
   },
   "keywords": [
-    "fastify",
-    "graphql",
-    "prisma",
-    "turyde"
+    "nodejs",
+    "typescript",
+    "directory",
+    "recursive"
   ],
   "author": "Danny Sofftie",
   "license": "MIT",
