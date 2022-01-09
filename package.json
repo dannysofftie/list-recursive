@@ -1,8 +1,23 @@
 {
   "name": "list-recursive",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannysofftie/list-recursive.git"
+  },
+  "keywords": [
+    "fastify",
+    "graphql",
+    "prisma",
+    "turyde"
+  ],
+  "author": "Danny Sofftie",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dannysofftie/list-recursive/issues"
+  },
+  "homepage": "https://github.com/dannysofftie/list-recursive#readme",
   "scripts": {
     "test": "jest --detectOpenHandles",
     "prepublish": "tsc -b",
