@@ -1,10 +1,12 @@
 {
   "name": "list-recursive",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "jest --detectOpenHandles"
+    "test": "jest --detectOpenHandles",
+    "prepublish": "tsc -b",
+    "build": "tsc -b"
   },
   "devDependencies": {
     "@types/jest": "^27.4.0",
